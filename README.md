@@ -21,9 +21,9 @@ This project demonstrates basic arithmetic operations with an intuitive and mode
 ## 🖼️ App Preview
 
 <p align="center">
-  <img src="./dark_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Dark Mode"/>
+  <img src="screenshots/dark_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Dark Mode"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./light_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Light Mode"/>
+  <img src="screenshots/light_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Light Mode"/>
 </p>
 
 <p align="center">
