@@ -1,5 +1,38 @@
-# CalculatorAndroid
-Fully functionable calculator app in Android Studio
-Youtube Tutorial here : https://youtu.be/X3KQdwVlo1Q
+# Simple Calculator App for Android
 
-![calculator](https://user-images.githubusercontent.com/68380115/169702523-1a5d826d-fb0f-4377-bc58-f62d4ca53535.jpg)
+A clean and minimal **Android calculator application** built using **Android Studio**.  
+This app focuses on **simple UI, smooth performance, and essential arithmetic operations**.
+
+---
+
+## ✨ Features
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧮 Bracket support  
+- 🔄 Clear / Reset functionality  
+- 🎨 Light & Dark mode UI  
+- 📱 Mobile-friendly layout  
+
+---
+
+## 🖼️ App Preview
+
+<p align="center">
+  <img src="./dark_mode.jpg" width="240" style="border-radius:12px;" alt="Dark Mode"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./light_mode.jpg" width="240" style="border-radius:12px;" alt="Light Mode"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+- **IDE:** Android Studio  
+- **Language:** Java  
+- **UI:** XML  
+- **Platform:** Android  
+
+---
+
+⭐ *Simple design. Clear logic. Better user experience.*
