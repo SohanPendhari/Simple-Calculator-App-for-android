@@ -1,37 +1,60 @@
-# Simple Calculator App for Android
+# 📱 Simple Calculator App
 
-A clean and minimal **Android calculator application** built using **Android Studio**.  
-This app focuses on **simple UI, smooth performance, and essential arithmetic operations**.
+A clean and minimal **mobile calculator application** designed with a focus on **UI simplicity, usability, and smooth user interaction**.  
+This project demonstrates basic arithmetic operations with an intuitive and modern interface.
 
 ---
 
 ## ✨ Features
+
 - ➕ Addition  
 - ➖ Subtraction  
 - ✖️ Multiplication  
 - ➗ Division  
-- 🧮 Bracket support  
-- 🔄 Clear / Reset functionality  
-- 🎨 Light & Dark mode UI  
-- 📱 Mobile-friendly layout  
+- 🧮 Bracket support `()`  
+- 🔄 Clear (C / AC) functionality  
+- 🎨 Light & Dark theme UI  
+- 📱 Mobile-friendly and responsive layout  
 
 ---
 
-## 🖼️ App Preview
+## 🖼️ Output
 
-<p align="center">
-  <img src="./dark_mode.jpg" width="240" style="border-radius:12px;" alt="Dark Mode"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./light_mode.jpg" width="240" style="border-radius:12px;" alt="Light Mode"/>
-</p>
+### 🌙 Dark Mode
+<img src="dark_mode_image_path_here" width="300"/>
+
+### ☀️ Light Mode
+<img src="light_mode_image_path_here" width="300"/>
+
+> *The calculator provides a clean and smooth user experience in both dark and light themes.*
 
 ---
 
 ## 🛠️ Tech Stack
-- **IDE:** Android Studio  
-- **Language:** Java  
-- **UI:** XML  
-- **Platform:** Android  
+
+- **Platform:** Mobile Application  
+- **Frontend:** XML / UI Design  
+- **Logic:** Java  
+- **Design Focus:** Clean UI, smooth interaction, user-friendly layout  
+
+---
+
+## 🎯 Purpose of This Project
+
+This project was created to:
+- Practice **mobile UI design**
+- Implement **basic arithmetic logic**
+- Understand **event handling and user input**
+- Improve **frontend design skills** for mobile apps
+
+---
+
+## 🚀 Future Improvements
+
+- Percentage (%) calculation  
+- History of calculations  
+- Scientific calculator features  
+- Improved animations & transitions  
 
 ---
 
