@@ -18,44 +18,61 @@ This project demonstrates basic arithmetic operations with an intuitive and mode
 
 ---
 
-## 🖼️ Output
+## 🖼️ App Preview
 
-### 🌙 Dark Mode
-<img src="dark_mode_image_path_here" width="300"/>
+<p align="center">
+  <img src="./dark_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Dark Mode"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./light_mode.jpg" width="240" style="border-radius:12px;" alt="Calculator Light Mode"/>
+</p>
 
-### ☀️ Light Mode
-<img src="light_mode_image_path_here" width="300"/>
-
-> *The calculator provides a clean and smooth user experience in both dark and light themes.*
-
----
-
-## 🛠️ Tech Stack
-
-- **Platform:** Mobile Application  
-- **Frontend:** XML / UI Design  
-- **Logic:** Java  
-- **Design Focus:** Clean UI, smooth interaction, user-friendly layout  
+<p align="center">
+  <sub><b>Dark Mode</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Light Mode</b></sub>
+</p>
 
 ---
 
-## 🎯 Purpose of This Project
+## 📱 App Description
 
-This project was created to:
-- Practice **mobile UI design**
-- Implement **basic arithmetic logic**
-- Understand **event handling and user input**
-- Improve **frontend design skills** for mobile apps
+**Simple Calculator App** is a lightweight and user-friendly mobile calculator designed for everyday use.  
+It focuses on **clean UI, smooth interaction, and fast calculations**, providing a seamless experience in both **dark and light themes**.
 
----
-
-## 🚀 Future Improvements
-
-- Percentage (%) calculation  
-- History of calculations  
-- Scientific calculator features  
-- Improved animations & transitions  
+The interface is designed with minimal distractions, making calculations easy and visually comfortable.
 
 ---
 
-⭐ *Simple design. Clear logic. Better user experience.*
+## ⭐ Highlights
+
+- 🎨 Modern and minimal UI design  
+- 🌙 Eye-friendly Dark Mode  
+- ☀️ Clean and bright Light Mode  
+- ⚡ Fast and accurate calculations  
+- 👆 Easy-to-use button layout  
+- 📐 Perfect spacing and alignment  
+
+---
+
+## 🧪 Tested Use Cases
+
+- Basic arithmetic calculations  
+- Continuous operations  
+- Clear and reset operations  
+- Theme-based visual consistency  
+
+---
+
+## 🔮 Planned Enhancements
+
+- Calculation history  
+- Percentage (%) operations  
+- Scientific calculator mode  
+- Subtle animations & haptic feedback  
+
+---
+
+<p align="center">
+  <i>Designed for clarity. Built for simplicity.</i>
+</p>
+
